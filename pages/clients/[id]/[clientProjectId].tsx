@@ -9,7 +9,7 @@ const SelectedClientProjectPage: React.FC = (props) => {
   console.log('JMPC2', router.query)
 
   return (
-    <div>Client Project Page</div>
+    <div>The Project Page for a specific project for a Selected client.</div>
   );
 }
 
